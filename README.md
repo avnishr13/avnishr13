@@ -3,9 +3,6 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Anirudh%20Rathore&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Developer%20%7C%20Data%20Scientist%20%7C%20Computer%20Vision%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🤖+Building+AI+that+sees%2C+learns+%26+understands;🧠+2.5%2B+years+in+ML%2C+DL+%26+Computer+Vision;🚀+From+RAG+Pipelines+to+Production+SaaS;📚+MSc+AI+%40+Heriot-Watt+University+Dubai" alt="Typing SVG" /></a>
-
 <br/>
 
 <!-- Social Badges -->
