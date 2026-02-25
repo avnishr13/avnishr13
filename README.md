@@ -199,7 +199,7 @@ me.say_hi()
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=avnishr13&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
