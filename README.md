@@ -8,7 +8,7 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://aperturedigitalmedia.online)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhrathore0713@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Dubai,_UAE-302b63?style=for-the-badge)](https://maps.google.com)
 
@@ -194,7 +194,7 @@ me.say_hi()
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://aperturedigitalmedia.online)
 [![Email](https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhrathore0713@gmail.com)
 
 <br/>
