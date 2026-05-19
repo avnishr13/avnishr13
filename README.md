@@ -172,36 +172,6 @@ me.say_hi()
 
 </div>
 
-> **⚙️ Setup:** Add this to `.github/workflows/snake.yml` in your profile repo to enable the animation:
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule:
->     - cron: "0 */12 * * *"
->   workflow_dispatch:
->   push:
->     branches:
->       - main
-> jobs:
->   generate:
->     permissions:
->       contents: write
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
 ---
 
 ## 🏆 Achievements & Publications
