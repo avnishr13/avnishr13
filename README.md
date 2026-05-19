@@ -5,6 +5,11 @@
 
 <br/>
 
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A4%96;Computer+Vision+%7C+RAG+%7C+Deep+Learning;Lead+AI+Developer+%40+VirtueCloud+%F0%9F%9A%80;MSc+AI+%40+Heriot-Watt+University+%F0%9F%8E%93)](https://git.io/typing-svg)
+
+<br/>
+
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avnishr18/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/avnishr13/)
@@ -153,6 +158,52 @@ me.say_hi()
 
 ---
 
+## 🐍 Snake eating my contributions!
+
+<div align="center">
+
+> A snake is munching through my GitHub contribution graph — every commit is a snack! 🎮
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avnishr13/avnishr13/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avnishr13/avnishr13/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/avnishr13/avnishr13/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+> **⚙️ Setup:** Add this to `.github/workflows/snake.yml` in your profile repo to enable the animation:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */12 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches:
+>       - main
+> jobs:
+>   generate:
+>     permissions:
+>       contents: write
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: ${{ github.repository_owner }}
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3.1.0
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
 ## 🏆 Achievements & Publications
 
 <div align="center">
@@ -185,6 +236,14 @@ me.say_hi()
 
 ---
 
+## 📈 Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/7c3aed/avnishr13" alt="Anirudh's Github Chart" />
+</div>
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
@@ -193,7 +252,7 @@ me.say_hi()
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avnishr18/)
 [![Portfolio](https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://aperturedigitalmedia.online)
 [![Email](https://img.shields.io/badge/Drop_Me_An_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anirudhrathore0713@gmail.com)
 
