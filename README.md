@@ -58,7 +58,12 @@ I published a full-length book on **Flutter App Development** 📘 and I also ru
 
 <div align="center">
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,aws,azure,docker,postgres,mongodb,firebase,redis,cpp,ts,js,dart,flutter&perline=10&theme=dark" alt="Tech stack icons"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,aws,azure,docker,postgres,mongodb,firebase,redis,cpp,ts,js,dart,flutter&perline=9&theme=dark" alt="Tech stack icons"/></a>
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
 
