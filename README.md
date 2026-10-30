@@ -112,7 +112,7 @@ I published a full-length book on **Flutter App Development** 📘 and I also ru
 ## Experience
 
 <details open>
-<summary><b>🏢 VirtueCloud — Lead AI Developer &amp; PM</b> &nbsp;·&nbsp; <i>June 2025 – Present · India</i></summary>
+<summary><b>🏢 VirtueCloud — Lead AI Developer &amp; PM</b> &nbsp;·&nbsp; <I>April 2023 – Present · India/Dubai</i></summary>
 <br/>
 
 - 🤖 Built a conversational AI Concierge using **AWS Bedrock** + custom **RAG pipeline** → **99% accuracy** in automating guest services
